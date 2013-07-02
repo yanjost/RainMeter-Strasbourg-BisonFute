@@ -3,9 +3,16 @@ RainMeter-Strasbourg-BisonFute
 
 RainMeter plugin for displaying Strasbourg Traffic info map
 
-Installation
-------------
+Installation (en)
+-----------------
+- Install RainMeter from http://rainmeter.net/
+- Download the .zip file and unzip it into a skin folder (for example C:\Users\USERNAME\Documents\Rainmeter\Skins\SKIN_NAME)
+- Activate the plugin in the "Manage..." menu, click on the file "Strasbourg-BisonFute.ini" and choose "Load"
 
-Download the .zip file and unzip it into a skin folder (for example C:\Users\USERNAME\Documents\Rainmeter\Skins\SKIN_NAME)
 
-Téléchargez le fichier .zip et décompressez-le dans le répertoire racine d'un skin (par exemple C:\Users\USERNAME\Documents\Rainmeter\Skins\SKIN_NAME)
+Installation (fr)
+------------------
+
+- Installez RainMeter à partir de http://rainmeter.net/
+- Téléchargez le fichier .zip et décompressez-le dans le répertoire racine d'un skin (par exemple C:\Users\USERNAME\Documents\Rainmeter\Skins\SKIN_NAME)
+- Activez le plugin dans le menu "Gérer", cliquez sur le fichier "Strasbourg-BisonFute.ini", puis sur "Charger"
