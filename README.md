@@ -1,3 +1,10 @@
+# [DEPRECATEd PROJECT]
+
+"Bisous Futé" has changed their endpoints, switching to canvas, and I don't use it anymore. Please feel free to fork and update
+
+---
+
+
 RainMeter-Strasbourg-BisonFute
 ==============================
 
